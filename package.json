@@ -1,0 +1,15 @@
+{
+  "name": "orf-reader",
+  "version": "1.0.0",
+  "description": "Read news.orf.at from your console",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Franziskus Domig <fdomig@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "scrape-it": "^3.0.1"
+  }
+}
